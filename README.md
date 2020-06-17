@@ -3,7 +3,7 @@
 
 
   ## Description
-  A budget tracking app that allows users to record account deposits and withdrawals so that they can track their account balance and budget more effectively. Progressive Budget Tracker is a PWA(Progressive Web App) and features a web manifest, service worker and IndexedDB allowing app access and functionality outside of web browser even when offline. 
+  A budget tracking app that allows users to record account deposits and withdrawals so that they can track their account balance and budget more effectively. Progressive Budget Tracker is a PWA(Progressive Web App) and features a web manifest, service worker and IndexedDB allowing app access and functionality outside of the web browser and even when offline. 
 
   
   ## Table of Contents
